@@ -1,49 +1,48 @@
-# Nicole Cruz
+# Oie, sou a Nicole!
+
 ## Sobre mim 
-Oie! Meu nome é Nicole, tenho 18 anos e tenho uma vontade imensa de alcançar os meus sonhos.<br> Sou estudante no primeiro semestre de Ciência de Dados e Machine Learning no CEUB e, no próximo semestre, darei início à minha trajetória em Gestão de Políticas Públicas na UnB. Acredito que o futuro do impacto social e da transformação pública está na intersecção entre a tecnologia e as pessoas. Por isso, escolhi unir essas duas áreas para focar no que realmente me move: a Análise de Políticas Públicas. Meu objetivo é aprender a transformar dados brutos e estatísticas em soluções reais e que melhorem a sociedade em que vivemos.
 
-## Meu currículo digital
-Formação
+Tenho 18 anos, sou movida por desafios e acredito que o futuro do impacto social e da transformação pública está na intersecção entre a **tecnologia** e as **pessoas**. 
 
-**Ensino Médio**<br>
-Centro Educacional Leonardo da Vinci: 2023 – 2025
+Meu objetivo principal é a **Análise de Políticas Públicas**: quero transformar dados brutos e estatísticas em soluções reais que melhorem a sociedade.
 
-Formação sólida com ênfase em disciplinas das ciências humanas e exatas. Durante esse período, participei ativamente de atividades extracurriculares que desenvolveram minhas habilidades de comunicação, liderança e pensamento crítico — incluindo participação como delegada em simulações da Organização das Nações Unidas (OnuVinci).
+*  Atualmente cursando o 1º semestre de **Ciência de Dados e Machine Learning** no CEUB.
+*  No próximo semestre inicio **Gestão de Políticas Públicas** na UnB.
 
-**Formação Profissional em Piano Erudito**<br>
-Escola de Música de Brasília (EMB): 2016 – 2023
+---
 
-Curso de longa duração com alto nível de exigência técnica e artística. A formação em piano erudito exigiu foco intenso, gestão rigorosa de tempo, disciplina diária de estudo e performance sob pressão em audições e recitais públicos. Essa experiência desenvolveu resiliência, inteligência emocional e capacidade de manter a excelência em metas de longo prazo — habilidades que levo para tudo que faço.
+## Formação & Trajetória
 
-**Bacharelado em Ciência de Dados e Machine Learning**<br>
-Centro Universitário de Brasília (CEUB): 2026 – 2030 (previsto)
+### Formação Profissional em Piano Erudito
+**Escola de Música de Brasília (EMB)** | *2016 – 2023*
+> Curso de longa duração com alto nível de exigência técnica e artística. Essa experiência desenvolveu em mim foco intenso, gestão rigorosa de tempo, resiliência e capacidade de manter a excelência sob pressão em metas de longo prazo.
 
-Primeiro semestre em andamento. Formação com forte ênfase em projetos práticos, combinando análise estatística, programação, inteligência artificial e machine learning. Foco em aplicações voltadas para impacto social e políticas públicas baseadas em dados.
+### Ensino Médio
+**Centro Educacional Leonardo da Vinci** | *2023 – 2025*
+> Formação sólida com ênfase em ciências humanas e exatas. Participei ativamente de atividades extracurriculares de liderança e comunicação, atuando como delegada em simulações da ONU (OnuVinci).
 
-**Bacharelado em Gestão de Políticas Públicas**<br>
-Universidade de Brasília (UnB): 2026 – 2030 (previsto)
+---
 
-Início previsto para o segundo semestre de 2026. Graduação multidisciplinar que integra economia, direito, sociologia e administração pública, formando profissionais capazes de analisar, planejar e avaliar políticas públicas com visão crítica e base em evidências.
+## Stack & Ferramentas
 
-## Habilidades
+### Habilidades Técnicas
+* **Linguagens & Bibliotecas:** Python, Pandas, SQL, Visualização de Dados (Matplotlib)
+* **Fundamentos:** Álgebra Linear, Estatística Básica
 
-*Python*<br>
-*Pandas*<br>
-Álgebra Linear<br>
-Estatística básica<br>
-*SQL*<br>
-Vizualização (MatPlotlib)
+### Ferramentas & Ambientes
+* **Desenvolvimento:** VS Code, Google Colab, Git / GitHub, Gitbash
+* **Análise & Business Intelligence:** Power BI, Excel / Google Sheets
 
-## Ferramentas 
-
-*Google Colab*<br>
-*VScode*<br>
-*Excel/Google Sheets*<br>
-*Gitbash*<br>
-*GitHub*<br>
-*Power BI*
+---
 
 ## No momento...
 
-Estou focando em ter uma base de conhecimentos em 
+* Estou focando em consolidar minha base de conhecimentos em lógica de programação, manipulação de dados e teoria das políticas públicas.
+* Construindo meus primeiros projetos de análise de dados voltados para o setor público.
 
+---
+
+## Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-viana-cruz-b609ab40b/)
+[![Website](https://img.shields.io/badge/Meu_Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://readdy.ai/project/47a87a35-b485-4b36-a932-12d7ef03457a)
