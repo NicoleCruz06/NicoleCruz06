@@ -6,8 +6,8 @@ Tenho 18 anos, sou movida por desafios e acredito que o futuro do impacto social
 
 Meu objetivo principal é a **Análise de Políticas Públicas**: quero transformar dados brutos e estatísticas em soluções reais que melhorem a sociedade.
 
-*  Atualmente cursando o 1º semestre de **Ciência de Dados e Machine Learning** no CEUB.
-*  No próximo semestre inicio **Gestão de Políticas Públicas** na UnB.
+*  Atualmente cursando o 2º semestre de **Ciência de Dados e Machine Learning** no CEUB.
+*  Atualmente cursando o 1º semestre **Gestão de Políticas Públicas** na UnB.
 
 ---
 
